@@ -30,7 +30,7 @@
 <h3>Après crédit</h3>
 <img src="captures/afterCredit.png" alt="Solde après Crédit" width="800">
 
-<h2>Virements=/h2>
+<h2>Virements</h2>
 
 <h3>Avant Virement - Compte Source</h3>
 <img src="captures/SourceBeforeTransfer.png" alt="Source avant virement" width="800">
